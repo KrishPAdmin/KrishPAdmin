@@ -41,7 +41,7 @@ Most repos include:
 - Website: https://krishadmin.com
 - Portfolio subdomains: https://co-op.krishadmin.com | https://notes.krishadmin.com | https://server.krishadmin.com
 - LinkedIn: https://www.linkedin.com/in/krish-patel/
-- Email: your-email@example.com
+- Email: krish@krishadmin.com
 
 ## GitHub profile README (optional)
 If you want this to show on your GitHub profile:
@@ -59,5 +59,3 @@ Unless stated otherwise in a specific repo, assume projects are shared for learn
 If you want a formal license, add one (MIT is a common choice).
 
 ---
-
-Last updated: 2026
